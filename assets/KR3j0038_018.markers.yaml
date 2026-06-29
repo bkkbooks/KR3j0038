@@ -1,0 +1,165 @@
+canonical_identifier: bkk:krp/KR3j0038/bkk/v1/markers/18
+seq: 18
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_018-1a01}
+  - {type: variant, offset: 0, length: 4, content: 右容齋随, WYG: ''}
+  - {type: substitution, offset: 2, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
+  - {type: substitution, offset: 3, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1166}}
+  - {type: variant, offset: 5, length: 3, content: 續筆三, WYG: 卷}
+  - {type: variant, offset: 9, length: 96, content: 二卷宋嘉㝎刊本每半葉十行行廿一字高七寸二分廣五寸五分白口口上有刻上姓名題下四格卷後書名空兩行皆宋板例日本鞠山文庫所藏荆州田監督伏侯載以歸以馬刻校之止十三卷中落一行续茟目錄落一目及總目後凡二百四, WYG: 六}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl2}
+  - {type: line-break, offset: 21, content: '', id: KR3j0038_SBCK_018-1a02}
+  - {type: substitution, offset: 22, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3861}}
+  - {type: 'kr:newline', offset: 48, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl3}
+  - {type: line-break, offset: 48, content: '', id: KR3j0038_SBCK_018-1a03}
+  - {type: variant, offset: 48, length: 1, content: 卷, SBCK: 􅃃}
+  - {type: variant, offset: 65, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 72, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl4}
+  - {type: line-break, offset: 72, content: '', id: KR3j0038_SBCK_018-1a04}
+  - {type: substitution, offset: 90, original: 续, replacement: 續, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1174}}
+  - {type: substitution, offset: 93, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: 'kr:newline', offset: 97, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl5}
+  - {type: line-break, offset: 97, content: '', id: KR3j0038_SBCK_018-1a05}
+  - {type: variant, offset: 108, length: 0, content: '', WYG: 宋洪邁撰文章小伎文章}
+  - {type: variant, offset: 109, length: 1, content: 條, WYG: 小伎於道未為尊雖杜子美有激而云然要為失言不可以訓文章豈小事哉易賁之彖言剛柔交錯天文也文明以止人文也觀乎天文以察時變觀乎人文以化成天下孔子稱帝堯煥乎有文章子貢曰夫子之文章可得而聞詩美衞武公亦云有文章堯舜禹湯文武成康之聖賢桀紂幽厲之昏亂非詩書以文章載之何以傳伏羲畫八卦文王重之非孔子以文章翼之何以傳孔子至言要道託孝經論語之文而傳曽子子思孟子傳聖人心學使無中庸及七篇之書後人何所窺門户老莊絶滅禮學忘言去為而五千言與内外篇極其文藻釋氏之為禪者謂語言為累不知大乘諸經可廢乎然則詆為小伎其理謬矣彼後世為詞章者逐其末而忘其本翫其華而落其實流宕自逺非文章過也杜老所云文章千古事已似愛文章文章日自負文章實致身文章開穾奥文章憎命達名豈文章著枚乘文章老文章敢自誣海内文章伯文章曹植波瀾闊庾信文章老更成豈有文章驚海内每語見許文章伯文章有神交有道如此之類多指詩而言所見狹矣三長月釋氏以正五九月為三長月故奉佛者皆茹素其説云天帝釋以大寳鏡輪照四天下寅午戌月正臨南贍部洲故當食素以徼福官司謂之斷月故受驛劵有所謂羊肉者則不支俗謂之惡月士大夫赴官者輒避之或人以謂唐日藩鎮蒞事必大享軍屠殺羊豕至多故不欲以其月上事今之他官不當爾也然此説亦無所經見予讀晉書禮志穆帝納后欲用九月九月是忌月北齊書云高洋謀簒魏其臣宋景業言宜以仲夏受禪或曰五月不可入官犯之終於其位景業曰王為天子無復下期豈得不終於其位乎乃知此忌相承由來已久竟不能曉其義及出何經典也兄弟直西垣秦少游集中有與鮮于子駿書云今中書舍人皆以伯仲繼直西垣前世以來未有其事誠國家之美非特衣冠之盛也除書始下中外欣然舉酒相屬予以其時考之蓋元祐二年謂蘇子由曽子開劉貢甫也子由之兄子瞻子開之兄子固子宣貢甫之兄原甫皆經是職故少游有此語云紹興二十九年予仲兄始入西省至隆興二年伯兄繼之乾道三年予又繼之相距首尾九歲予作謝表云父子相承四上鑾坡之直弟兄在望三陪鳯閣之游比之前賢實為遭際固為門户榮事然亦以此自愧也}
+  - {type: page-break, offset: 109, content: '', id: KR3j0038_WYG_016-1b, image: WYG0851/WYG0851-0393b.png}
+  - {type: page-break, offset: 109, content: '', id: KR3j0038_WYG_016-2a, image: WYG0851/WYG0851-0393c.png}
+  - {type: page-break, offset: 109, content: '', id: KR3j0038_WYG_016-2b, image: WYG0851/WYG0851-0393d.png}
+  - {type: page-break, offset: 109, content: '', id: KR3j0038_WYG_016-3a, image: WYG0851/WYG0851-0394a.png}
+  - {type: page-break, offset: 109, content: '', id: KR3j0038_WYG_016-3b, image: WYG0851/WYG0851-0394b.png}
+  - {type: variant, offset: 111, length: 1, content: 茟, WYG: 樹萱録頃在秘閣抄書得續樹萱録一卷其中載隱君子元撰夜見吴王夫差與唐諸詩人吟詠事李翰林詩曰芙蓉露濃紅壓枝幽禽感秋花畔啼玉人一去未回馬梁間燕子三見歸張司業曰緑頭鴨兒咂萍藻采蓮女郎笑花老杜舍人曰鼓鼙夜戰北窻風霜葉沿階貼亂紅三人皆全篇杜工部曰紫領寛袍漉酒巾江頭蕭散作閒人白少傅曰不因霜葉辭林去的當山翁未覺秋李賀曰魚鱗甃空排嫩碧露桂稍寒挂團璧三人皆未終篇細味其體格語句往往逼真後閲秦少游集有秋興九首皆擬唐人前所載咸在焉關子東為秦集序云擬古數篇曲盡唐人之體正謂是也何子楚云續萱録乃王性之所作而託名他人今其書才有三事其一曰賈博喻一曰全若虚一曰元撰詳命名之義蓋取諸子虚亡是公云館職名存國朝館閣之選皆天下英俊然必試而後命一經此職遂為名流其高者曰集賢殿修撰史館修撰直龍圖閣直昭文館史館集賢院祕閣次曰集賢祕閣校理官卑者曰館閣校勘史館檢討均謂之館職記注官缺必於此取之非經修注未有直除知制誥者官至員外郎則任子中外皆稱為學士及元豐官制行凡帶職者皆遷一官而罷之而置祕書省官大抵與職事官等反為留滯政和以後増修撰直閣貼職為九等於是材能治辦之吏貴游乳臭之子車載斗量其名益輕南度以來初除校書正字往往召試雖曰館職不輕畀然其遷敘反不若寺監之徑捷至推排為郎即失其故歩混然無别矣南宫适南宫适問羿奡不得其死禹稷有天下言力可賤而徳可貴其義已盡無所可荅故夫子俟其出而歎其為君子奬其尚徳至於再言之聖人之意斯可見矣然明道先生云以禹稷比孔子故不荅范淳父以為禹稷有天下故夫子不敢荅弗敢當也楊龜山云禹稷之有天下不止於躬稼而已孔子未盡然其言故不荅然而不正之者不責備於其言以沮其尚徳之志也與所謂雍之言然則異矣予竊謂南宫之問初無以禹稷比孔子之意不知二先生何為有是言若龜山之語淺之巳甚獨謝顯道云南宫适知以躬行為事是以謂之君子知言之要非尚徳者不能在當時發問間必有目擊而道存首肯之意非直不荅也其説最為切當吳王殿漢高祖五年以長沙豫章象郡桂林南海立番君吴芮為長沙王十二年以三郡封吴王濞而豫章亦在其中又趙佗先有南海後擊并桂林象郡則芮所有但長沙一郡耳按芮本為秦番陽令故曰番君項羽已封為衡山王都邾邾今之黃州也復侵奪其地故高祖徙之長沙而都臨湘一年薨則其去番也久矣今吾邦猶指郡正㕔為吳王殿以謂芮為王時所居牛僧孺𤣥怪録載唐元和中饒州刺史齊推女因止州宅誕育為神人擊死後有仙官治其事云是西漢鄱陽王吴芮今刺史宅是芮昔時所居皆非也王衞尉漢高祖怒蕭何謂王衞尉曰李斯相秦皇帝有善歸主有惡自予今相國請吾苑以自媚於民故繫治之衞尉曰秦以不聞其過亡天下李斯之分過又何足法哉唐太宗疑三品以上輕魏王責之曰我見隋家諸王一品以下皆不免其躓頓我自不許兒子縱横耳魏鄭公曰隋高祖不知禮義寵縱諸子使行非禮尋皆罪黜不可以為法亦何足道觀高祖太宗一時失言二臣能因其所言隨即規正語意旣直於激切中有婉順體可謂得諫爭之大義雖微二帝其孰不降心以聽乎前代為監人臣引古規戒當近取前代則事勢相接言之者有證聽之者足以監詩曰商監不逺在夏后之世周書曰今惟商墜厥命我其可不大監又曰我不可不監于有商又曰有商受天命惟有歴年惟不敬厥徳乃早墜厥命周公作無逸稱商三宗漢祖命群臣言吾所以有天下項氏所以失天下命陸賈著秦所以失天下張釋之為文帝言秦漢之間事秦所以失漢所以興賈山借秦為喻賈誼請人主引商周秦事而觀之魏鄭公上書於太宗云方隋之未亂自謂必無亂方隋之未亡自謂必無亡臣願當今動静以隋為監馬周云煬帝笑齊魏之失國今之視煬帝亦猶煬帝之視齊魏也張元素諫太宗治洛陽宫曰乾陽畢功隋人解體恐陛下之過甚於煬帝若此役不息同歸於亂耳考詩書所載及漢唐諸名臣之論有國者之龜鏡也議論之臣宜以為法治盜法不同唐崔安濳為西川節度使到官不詰盜曰盜非所由通容則不能為乃出庫錢置三市置牓其上曰告捕一盜賞錢五百緡侣者告捕釋其罪賞同平人未幾有捕盜而至者盜不服曰汝與我同為盜十七年贓皆平分汝安能捕我安濳曰汝旣知吾有牓何不捕彼以來則彼應死汝受賞矣汝旣為所先死復何辭立命給捕者錢使盜視之然後殺盜於市於是諸盜與其侣互相疑無地容足夜不及旦散逃出境境内遂無一人為盜予毎讀此事以為䇿之上者及得李公擇治齊州事則又不然齊素多盜公擇痛治之殊不止他日得黠盜察其可用刺為兵使直事鈴下間問以盜發輒得而不衰止之故曰此繇富家為之囊使盜自相推為甲乙官吏廵捕及門擒一人以首則免矣公擇曰吾得之矣乃令凡得藏盜之家皆發屋破柱盜賊遂清予乃知治世間事不可泥紙上陳迹如安濳之法可謂善矣而齊盜反恃此以為沈命之計則變而通之可不存乎其人哉和詩當和意古人酬和詩必荅其來意非若今人為次韻所局也觀文選所編何劭張華盧諶劉琨二陸三謝諸人贈荅可知巳唐人尤多不可具載姑取杜集數篇略紀于此高適寄杜公云媿爾東西南北人杜則云東西南北更堪論高又有詩云草𤣥今已畢此外更何言杜則云草𤣥吾豈敢賦或似相如嚴武寄杜云興發㑹能馳駿馬終須重到使君灘杜則云枉沐旌麾出城府草茅無逕欲教鋤杜公寄嚴詩云何路出巴山重巖細菊班遙知簇鞍馬回首白雲間嚴荅云卧向巴山落月時籬外黃花菊對誰跋馬望君非一度杜送韋迢云洞庭無過鴈書䟽莫相忘迢云相憶無南鴈何時有報章杜又云雖無南去鴈看取北來魚郭受寄杜云春興不知凡幾首杜荅云藥裹關心詩揔廢皆鐘磬在簴扣之則應往來反復於是乎有餘味矣稷有天下稷躬稼而有天下泰伯三以天下讓文王一怒而安天下之民皆以子孫之事追言之是時稷始封於邰古公方邑于梁山之下文王才有岐周之地未得云天下也禹未嘗躬稼因稷而稱之一世人材一世人材自可給一世之用苟有以致之無問其取士之門如何也今之議者多以科舉經義詩賦為言以為詩賦浮華無根柢不能致實學故其説常右經而左賦是不然成周之時下及列國皆官人以世周之劉單召甘晉之韓趙荀魏齊之高國陳鮑衞之孫寗孔石宋之華向皇樂鄭之罕駟國游魯之季孟臧展楚之鬭蒍申屈皆世不乏賢與國終畢漢以經術及察舉魏晉以州鄉中正東晉宋齊以門第唐及本朝以進士而參之以任子皆足以盡一時之才則所謂科目特借以為梯階耳經義詩賦不問可也王逢原王逢原以學術邢居實以文采有盛名於嘉祐元豐間然所為詩文多怨抑沉憤哀傷涕泣若辛苦憔悴不得其平者故皆不克壽逢原年二十八居實纔二十天畀其才而嗇其壽吁可惜哉吏文可笑吏文行移只用定本故有絶可笑者如文官批書印紙雖宫觀嶽廟亦必云不曽請假或已登科級見官臺省清要必云不曽應舉若試刑法予在西掖時漢州申顯惠侯神頃係宣撫司便宜加封昭應公乞換給制書禮寺看詳謂不依元降指揮於一年限内自陳欲符下漢州告示本神知委予白丞相别令勘當乃得改命淳熈六年予以大禮恩澤改奏一歲兒吏部下饒州必欲保官狀内聲説被奏人曽與不曽犯決笞有無翦刺及曽與不曽先經補官因罪犯停廢别行改奏又令供與予係是何服屬父之於子而問何服屬一歲嬰兒而問曽與不曽入仕坐罪豈不大可笑哉靖康時事鄧艾伐蜀劉禪旣降又勑姜維使降於鍾㑹將士咸怒拔刀斫石魏圍燕於中山旣久城中將士皆思出戰至數千人相率請於燕主慕容隆言之尤力為慕容麟沮之而罷契丹伐晉連年晉拒之每戰必勝其後杜重威隂謀欲降命將士出陳於外士皆踊躍以為出戰旣令解甲士皆慟哭聲振原野予頃修靖康實録竊痛一時之禍以堂堂大邦中外之兵數十萬曽不能北向發一矢獲一敵端坐都城束手就斃虎旅雲屯不聞有如蜀燕晉之憤哭者近讀朱新仲詩集有記昔行一篇正敘此時事其中云老种憤死不得戰汝霖疽發何由痊乃知忠義之士世未嘗無之特時運使然耳并韶梁武帝時有交趾人并韶者富於詞藻詣選求官而吏部尚書蔡撙以并姓無前賢除廣陽門郎韶恥之遂還鄉里謀作亂夫用門地族望為選舉低昻乃晉宋以來弊法蔡撙賢者也不能免俗何哉䜟緯之學圖䜟星緯之學豈不或中然要為誤人聖賢所不道也眭孟覩公孫病已之文勸漢昭帝求索賢人禪以帝位而不知宣帝實應之孟以此誅孔熈先知宋文帝禍起骨肉江州當出天子故謀立江州刺史彭城王而不知孝武實應之熈先以此誅當塗高之䜟漢光武以詰公孫述袁術王浚皆自以姓名或父字應之以取滅亡而其兆為曹操之魏兩角犢子之䜟周子諒以劾牛仙客李徳裕以議牛僧孺而其兆為朱温隋煬帝謂李氏當有天下遂誅李金才之族而唐高祖乃代隋唐太宗知女武將竊國命遂濫五娘子之誅而阿武婆幾易姓武后謂代武者劉劉無强姓殆流人也遂遣六道使悉殺之而劉幽求佐臨淄王平内難韋武二族皆殄滅晉張華郭璞魏崔伯深皆精於天文卜筮言事如神而不能免於身誅家族況其下者乎真假皆妄江山登臨之美泉石賞翫之勝世間佳境也觀者必曰如畫故有江山如畫天開圖畫即江山身在畫圖中之語至於丹青之妙好事君子嗟歎之不足者則又以逼真目之如老杜人間又見真乘黃時危安得真致此悄然坐我天姥下斯須九重真龍出憑軒忽若無丹青高堂見生鶻直訝杉松冷兼疑菱荇香之句是也以真為假以假為真均之皆妄境耳人生萬事如是何特此耶容齋隨筆卷十六欽定四庫全書容齋續筆目録卷一顔魯公戒石銘雙生子李建州侍從官存亡大計唐人詩不傳泰􅊎四語重陽上已改日田宅契劵取直公子奚斯唐藩鎮幕府文中子門人晋燕用兵李衛公帖王孫賦漢郡國諸官漢獄名卷二權若訥馮澥嵗旦飲酒存歿絶句湯武之事張釋之傳誤張于二廷尉漢唐置郵龍且張步義理之説無窮開元五王巫蠱之禍唐詩無諱避李晟傷國體元和六學士二傳誤後世卜子夏父子忠邪蘇張說六國卷三一定之計秋興賦太史慈諡法漢文帝受言丹青引詩國風秦中事詩文當句對東坡明正臺諌不相見執政四入頭無望之禍燕説折檻行朱雲陳元達杜老不􅁯君栽松詩烏鵲鳴卷四淮南守備周世宗竇正固鄭權黨錮牽連之賢漢代文書式資治通鑑弱小不量力田横吕布中山宜陽相六畜卜筮不同日者栁子厚黨叔文漢武心術禁天髙之稱宣和冗官卷五秦隋之惡漢唐二武玉川子銀青階買馬牧馬杜詩用字唐虞象刑崔常牛李盗賊怨官吏作詩先賦韻后妃命數公為尊稱臺城少城卷六嚴武不殺杜甫王嘉薦孔光朱温三事文字潤筆漢舉賢良戊為武怨耦曰仇説文與經傳不同周亞夫煬王煬帝鄭荘公百六陽九左傳易筮鍾繇自劾大義感人卷七田租輕重女子夜績淮南王薛國久長建除十二辰俗語筭數伾文用事五十絃瑟遷固用疑字僣亂的當月不勝火靈臺有持董仲舒灾異對李正己獻錢宣室昔昔鹽将帥當專卷八蓍龜卜筮地名異音韓嬰詩五行衰絶字漢表所記事蕭何紿韓信彭越無罪蜘蛛結網孫權稱至尊康山讀書列國城門名緇塵素衣去國立後詩詞改字姑舅為婚卷九三家七穆貢薛韋康兒寛張安世深溝髙壘生之徒十有三臧氏二龜有扈氏太公丹書漢景帝蕭何先見史漢書法薄昭田蚡文字結尾國初古文卷十經傳煩簡曹參不薦士漢初諸将官漢官名漢唐輔相漢武留意郡守苦蕒菜唐諸生束脩范徳孺帖民不畏死天下有竒士易卦四徳孫堅起兵孫權封兄䇿踰年改元賊臣遷都輿地道里誤卷十一古錞于孫玉汝唐人避諱髙鍇取士兵部名存武官名不正名将晚謬唐帝稱太上皇楊倞注荀子昭宗相朱朴楊國忠諸使祖宗朝宰輔百官避宰相百官見宰相東坡自引所為文卷十二婦人英烈無用之用龍筋鳯髄判唐制舉科目淵有九名東坡論莊子列子書事天生對偶銅雀灌硯崔斯立漢書注冗卷十三科舉恩數下第再試試賦用韻正元制科貽子録金花帖子物之小大郭令公紀年兆祥民俗火葬太史日官汲冡周書曹子建論文雨水清明}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-4a, image: WYG0851/WYG0851-0394c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-4b, image: WYG0851/WYG0851-0394d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-5a, image: WYG0851/WYG0851-0395a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-5b, image: WYG0851/WYG0851-0395b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-6a, image: WYG0851/WYG0851-0395c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-6b, image: WYG0851/WYG0851-0395d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-7a, image: WYG0851/WYG0851-0396a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-7b, image: WYG0851/WYG0851-0396b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-8a, image: WYG0851/WYG0851-0396c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-8b, image: WYG0851/WYG0851-0396d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-9a, image: WYG0851/WYG0851-0397a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-9b, image: WYG0851/WYG0851-0397b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-10a, image: WYG0851/WYG0851-0397c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-10b, image: WYG0851/WYG0851-0397d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-11a, image: WYG0851/WYG0851-0398a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-11b, image: WYG0851/WYG0851-0398b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-12a, image: WYG0851/WYG0851-0398c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-12b, image: WYG0851/WYG0851-0398d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-13a, image: WYG0851/WYG0851-0399a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-13b, image: WYG0851/WYG0851-0399b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-14a, image: WYG0851/WYG0851-0399c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-14b, image: WYG0851/WYG0851-0399d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-15a, image: WYG0851/WYG0851-0400a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_016-15b, image: WYG0851/WYG0851-0400b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-1a, image: WYG0851/WYG0851-0401a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-1b, image: WYG0851/WYG0851-0401b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-2a, image: WYG0851/WYG0851-0402a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-2b, image: WYG0851/WYG0851-0402b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-3a, image: WYG0851/WYG0851-0402c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-3b, image: WYG0851/WYG0851-0402d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-4a, image: WYG0851/WYG0851-0403a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-4b, image: WYG0851/WYG0851-0403b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-5a, image: WYG0851/WYG0851-0403c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-5b, image: WYG0851/WYG0851-0403d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-6a, image: WYG0851/WYG0851-0404a.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-6b, image: WYG0851/WYG0851-0404b.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-7a, image: WYG0851/WYG0851-0404c.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-7b, image: WYG0851/WYG0851-0404d.png}
+  - {type: page-break, offset: 111, content: '', id: KR3j0038_WYG_017-8a, image: WYG0851/WYG0851-0405a.png}
+  - {type: page-break, offset: 112, content: '', id: KR3j0038_WYG_017-8b, image: WYG0851/WYG0851-0405b.png}
+  - {type: variant, offset: 118, length: 6, content: 條葢晉宋時細, WYG: 帝王訓儉用計臣為相州縣牌額盧知猷忌諱忌惡陳涉不可輕士匄韓厥孔墨玉川月蝕詩詩要㸃撿周蜀九經冡宰治内宰相爵邑楊子一毛李長吉詩子夏經學卷十五紫閣山村詩李林甫秦檜注書難書易脱誤南陔六詩紹聖廢春秋王韶熙河書籍之厄逐貧賦澗松山苖男子運起寅宰我作難古}
+  - {type: page-break, offset: 118, content: '', id: KR3j0038_WYG_017-9a, image: WYG0851/WYG0851-0405c.png}
+  - {type: page-break, offset: 118, content: '', id: KR3j0038_WYG_017-9b, image: WYG0851/WYG0851-0405d.png}
+  - {type: substitution, offset: 119, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
+  - {type: 'kr:newline', offset: 123, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl6}
+  - {type: line-break, offset: 123, content: '', id: KR3j0038_SBCK_018-1a06}
+  - {type: variant, offset: 125, length: 1, content: 所, SBCK: 􅀁}
+  - {type: variant, offset: 125, length: 6, content: 所作細不作衲, WYG: 占夢}
+  - {type: variant, offset: 131, length: 1, content: 卷, SBCK: 􅃃}
+  - {type: variant, offset: 134, length: 0, content: '', WYG: 髙徳儒唐朝士俸微}
+  - {type: variant, offset: 138, length: 4, content: 條如伊尹, WYG: 思潁詩劉蕡下第酒肆旗望賢宰相遭䜛宋齊邱鹹杬子月中桂兎唐二帝好名周禮非周公書醉尉亭長三易之名忠臣名}
+  - {type: page-break, offset: 138, content: '', id: KR3j0038_WYG_017-10a, image: WYG0851/WYG0851-0406a.png}
+  - {type: variant, offset: 143, length: 4, content: 以一衣與, WYG: 傳唐}
+  - {type: variant, offset: 148, length: 28, content: 亦不取一衣扵人衣不作介今意林作介後人以孟子改之此爲至善是, WYG: 酒令容齋續筆目録欽定四庫全}
+  - {type: page-break, offset: 148, content: '', id: KR3j0038_WYG_017-10b, image: WYG0851/WYG0851-0406b.png}
+  - {type: page-break, offset: 148, content: '', id: KR3j0038_WYG_018-1a, image: WYG0851/WYG0851-0406c.png}
+  - {type: variant, offset: 150, length: 1, content: 取, SBCK: 􅂑}
+  - {type: 'kr:newline', offset: 151, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl7}
+  - {type: line-break, offset: 151, content: '', id: KR3j0038_SBCK_018-1a07}
+  - {type: substitution, offset: 153, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
+  - {type: substitution, offset: 172, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 177, length: 215, content: 向以李瀚本㑹通館活字本最善馬本自序云向淂沁水李公不全本又淂友人殘本彚而刻之乃其校訂並不甚謬亦可見前輩用力之勤矣學部圖書館止存二冊一随筆苐四卷一四筆苐五卷行歀冋而有大德乙亥補板中貞元貞觀貞㝎貞惠並作正桓公作烕公魏公徵作魏證殷武作商武顓頊作顓帝慎戒作謹戒完顔亮作元顔亮至匡朗勖樹玄弘讓殷徴則缺筆慎貞桓缺二畫与他宋本不同冩如先朝諱号提行上字有提行有不提行二筆銅雀瓦硯先公亦提行例均不一惜止存兩筆不知天壤問尚有全部否江陰繆荃孫跋時年七有五, WYG: ''}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl8}
+  - {type: line-break, offset: 178, content: '', id: KR3j0038_SBCK_018-1a08}
+  - {type: 'kr:newline', offset: 204, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl9}
+  - {type: line-break, offset: 204, content: '', id: KR3j0038_SBCK_018-1a09}
+  - {type: 'kr:newline', offset: 229, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl10}
+  - {type: line-break, offset: 229, content: '', id: KR3j0038_SBCK_018-1a10}
+  - {type: substitution, offset: 242, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1166}}
+  - {type: 'kr:newline', offset: 255, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl11}
+  - {type: page-break, offset: 255, content: '', id: KR3j0038_SBCK_018-1b}
+  - {type: 'kr:newline', offset: 255, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl12}
+  - {type: line-break, offset: 255, content: '', id: KR3j0038_SBCK_018-1b01}
+  - {type: substitution, offset: 255, original: 冋, replacement: 坰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4094}}
+  - {type: substitution, offset: 279, original: 烕, replacement: 滅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3410}}
+  - {type: 'kr:newline', offset: 281, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl13}
+  - {type: line-break, offset: 281, content: '', id: KR3j0038_SBCK_018-1b02}
+  - {type: 'kr:newline', offset: 309, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl14}
+  - {type: line-break, offset: 309, content: '', id: KR3j0038_SBCK_018-1b03}
+  - {type: variant, offset: 314, length: 1, content: 玄, SBCK: 􅀇}
+  - {type: variant, offset: 315, length: 1, content: 弘, SBCK: 􅀪}
+  - {type: substitution, offset: 328, original: 与, replacement: 與, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0008}}
+  - {type: indent, offset: 334, content: 　, id: KR3j0038_krp_018-bkkind1}
+  - {type: substitution, offset: 334, original: 冩, replacement: 寫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3795}}
+  - {type: 'kr:newline', offset: 338, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl15}
+  - {type: line-break, offset: 338, content: '', id: KR3j0038_SBCK_018-1b04}
+  - {type: substitution, offset: 339, original: 号, replacement: 號, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0090}}
+  - {type: 'kr:newline', offset: 366, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl16}
+  - {type: line-break, offset: 366, content: '', id: KR3j0038_SBCK_018-1b05}
+  - {type: punctuation, offset: 387, content: (, id: KR3j0038_krp_018-bkkpn1}
+  - {type: punctuation, offset: 392, content: ), id: KR3j0038_krp_018-bkkpn2}
+  - {type: 'kr:newline', offset: 392, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl17}
+  - {type: page-break, offset: 392, content: '', id: KR3j0038_SBCK_018-2a}
+  - {type: 'kr:newline', offset: 392, content: '
+
+      ', id: KR3j0038_krp_018-bkkkrnewl18}
+  back: []
+hash: sha256:7d35b2900f28237c5e71b7374f0a585c4331242e6d17ca9b1a4e590fd01b029f

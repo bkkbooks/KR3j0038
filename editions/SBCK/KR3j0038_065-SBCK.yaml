@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3j0038/SBCK/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 容齊四筆序始予作容齋隨筆首尾十八年續筆十三年三筆五年而四筆之成不費一歳身益老而著書益速蓋有其說曩自越府歸謝絶外事獨弄筆紀􅄒之習不可掃除故捜采異聞但緒夷堅諸志於議論雌黃不復關抱而稚予櫰毎見夷堅滿􅁓輙曰隨筆夷堅皆大人素所游戯今隨筆不加益不應厚於彼而薄於此也日日立案傍必俟草一則乃退重逆其意則裒所憶而書之櫰􅄝讀書雖就寢猶置一編枕畔旦則與之俱興而天嗇其付年且弱冠聦明殊未開以彼其勤殆必有日丈夫愛憐少子此乎見之於是占抒爲序并􅅄其志云慶元三年九月二十四日序
+  hash: sha256:200ec045288aae5ea0b4c03ef16184f44bb9d7bf5bbcfe67cc9f3c55ebebd3d7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0038_SBCK_065-1a}
+metadata:
+  title: 容齋随筆
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:16:37.289551'
+  source:
+    repository: kanripo
+    path: KR3j0038/KR3j0038_065.txt
+hash: sha256:fff7519d1b699006eb40abe53e6578ca2b084093f304c6a4aec1c2cc9de06c12

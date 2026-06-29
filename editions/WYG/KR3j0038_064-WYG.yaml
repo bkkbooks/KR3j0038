@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0038/WYG/v1/juan/64
+seq: 64
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齋
+  hash: sha256:f7f480b1c55b0769612f27ec66d325ed5401fa6b38e1442f4cc61e0ec3381ecd
+metadata:
+  title: 容齋随筆
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:16:37.289551'
+  source:
+    repository: kanripo
+    path: KR3j0038/KR3j0038_064.txt
+hash: sha256:a9fd9308c38b2568c8294e54b42555bdb9008c6a8bed255686ef7b513278c650
