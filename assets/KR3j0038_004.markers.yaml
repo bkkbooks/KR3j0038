@@ -111,6 +111,7 @@ markers:
       ', id: KR3j0038_krp_004-bkkkrnewl17}
   - {type: line-break, offset: 298, content: '', id: KR3j0038_SBCK_004-1b07}
   - {type: punctuation, offset: 306, content: (, id: KR3j0038_krp_004-bkkpn1}
+  - {type: voice, offset: 306, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 308, content: ), id: KR3j0038_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 319, content: '
 
@@ -1622,4 +1623,4 @@ markers:
   - {type: variant, offset: 4544, length: 0, content: '', WYG: 欽定四庫全書容齋隨筆卷五二十五則宋洪邁撰}
   - {type: page-break, offset: 4544, content: '', id: KR3j0038_WYG_005-1a, image: WYG0851/WYG0851-0306c.png}
   back: []
-hash: sha256:5071d5a6fd32b1dc17dead1f13a8b0d45f210e9a21c49b8e187f2fbc02fd5755
+hash: sha256:f06fa081e5acc018b17d3177f16d958a1f4fafa0f48ea17add369063ccea9db3

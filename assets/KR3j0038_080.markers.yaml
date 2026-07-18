@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_080-1a01}
   - {type: variant, offset: 0, length: 6, content: 容齋四筆卷第, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR3j0038_krp_080-bkkpn1}
+  - {type: voice, offset: 8, length: 4273, name: note, id: n1}
   - {type: punctuation, offset: 11, content: ), id: KR3j0038_krp_080-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -1488,9 +1489,10 @@ markers:
   - {type: punctuation, offset: 4289, content: (, id: KR3j0038_krp_080-bkkpn420}
   - {type: variant, offset: 4289, length: 1, content: 終, WYG: 欽定四庫全書容齋四筆卷}
   - {type: page-break, offset: 4289, content: '', id: KR3j0038_WYG_068-1a, image: WYG0851/WYG0851-0775a.png}
+  - {type: voice, offset: 4289, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4290, content: ), id: KR3j0038_krp_080-bkkpn421}
   - {type: 'kr:newline', offset: 4290, content: '
 
       ', id: KR3j0038_krp_080-bkkkrnewl157}
   back: []
-hash: sha256:0a699dcbf53d5d82b3c529ca8bc21ff02070e18b189a3d046ba21e2764f4c299
+hash: sha256:f284dc9c3eade32aa2082b94c229b21b11e0bd8bc37547c20579516955632b74

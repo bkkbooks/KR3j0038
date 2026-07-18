@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_069-1a01}
   - {type: variant, offset: 0, length: 6, content: 容齋四筆卷第, WYG: ''}
   - {type: punctuation, offset: 7, content: (, id: KR3j0038_krp_069-bkkpn1}
+  - {type: 'voice:problem', offset: 7, length: 0, id: KR3j0038_bkk_069-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 7}
   - {type: variant, offset: 10, length: 0, content: '', WYG: 宋洪邁撰}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3j0038_krp_069-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR3j0038_krp_069-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_069-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR3j0038_krp_069-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3j0038_bkk_069-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 6, content: '
 
       ', id: KR3j0038_krp_069-bkkkrnewl2}
@@ -1579,4 +1581,4 @@ markers:
   - {type: variant, offset: 4265, length: 0, content: '', WYG: 欽定四庫全書容齋四筆卷}
   - {type: page-break, offset: 4265, content: '', id: KR3j0038_WYG_057-1a, image: WYG0851/WYG0851-0692a.png}
   back: []
-hash: sha256:58cbf180e286dc1a308d1ad1e6d2a9f2b8cae2be5e4d90a02b8088b51959c0d6
+hash: sha256:9d4899c798222b2f9b0447d9b9c6d23196b9f43de3a11fbeb01e085ae42716ea

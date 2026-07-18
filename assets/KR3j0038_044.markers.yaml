@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_044-1a01}
   - {type: variant, offset: 0, length: 259, content: 容齋三筆卷第八五則徽宗薦嚴䟽文徽宗以紹興乙卯歳升遐時忠宣公奉使未反命滯留冷山遣使臣沈珍往燕山建道埸於開泰寺作功德䟽曰千歳厭世莫遂乘雲之僊四海遏音同深喪考之戚况故宫爲禾黍改館徒饋於秦牢新廟游衣冠招魂漫歌於楚些雖置河東之賦莫止江南之哀遺民失望而痛心孤臣乆縶而歐血伏願盛德之祀傳百世以彌昌在天之靈繼三后而不朽北人讀之亦墮淚爭相傳誦其後梓宫南還公已徙燕率故臣之不忘國恩者出迎於城北搏膺大慟虜俗最重忠義不以爲罪也忠宣公謝表建炎三年先忠宣公銜命使此方以淮甸賊蠭起除兼淮南京東等路撫諭使俾李成以兵護至南京公遣書抵成成方與耿堅圍楚歷歳, WYG: ''}
   - {type: punctuation, offset: 7, content: (, id: KR3j0038_krp_044-bkkpn1}
+  - {type: voice, offset: 7, length: 4231, name: note, id: n1}
   - {type: punctuation, offset: 9, content: ), id: KR3j0038_krp_044-bkkpn2}
   - {type: 'kr:newline', offset: 9, content: '
 
@@ -1414,6 +1415,7 @@ markers:
   - {type: punctuation, offset: 4245, content: (, id: KR3j0038_krp_044-bkkpn393}
   - {type: variant, offset: 4245, length: 1, content: 終, WYG: 欽定四庫全書容齋三筆卷}
   - {type: page-break, offset: 4245, content: '', id: KR3j0038_WYG_044-1a, image: WYG0851/WYG0851-0601a.png}
+  - {type: voice, offset: 4245, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4246, content: ), id: KR3j0038_krp_044-bkkpn394}
   - {type: 'kr:newline', offset: 4246, content: '
 
@@ -1423,4 +1425,4 @@ markers:
 
       ', id: KR3j0038_krp_044-bkkkrnewl149}
   back: []
-hash: sha256:0658450d62a20a63b563af1461c6522791d65a10292f39c33b5d6a22f6012b9b
+hash: sha256:0883db3e23fe060eae0ab99c9e893d9a9a4c71aa3a90c012cc2863d97d639c14

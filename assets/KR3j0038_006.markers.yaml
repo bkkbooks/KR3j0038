@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_006-1a01}
   - {type: variant, offset: 0, length: 6, content: 容齋隨筆卷第, WYG: ''}
   - {type: punctuation, offset: 7, content: (, id: KR3j0038_krp_006-bkkpn1}
+  - {type: 'voice:problem', offset: 7, length: 0, id: KR3j0038_bkk_006-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 7}
   - {type: variant, offset: 10, length: 0, content: '', WYG: 宋洪邁撰}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3j0038_krp_006-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR3j0038_krp_006-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR3j0038_krp_006-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3j0038_bkk_006-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 4, content: '
 
       ', id: KR3j0038_krp_006-bkkkrnewl2}
@@ -1450,4 +1452,4 @@ markers:
   - {type: variant, offset: 4099, length: 0, content: '', WYG: 欽定四庫全書容齋隨筆卷七十八則宋洪邁撰孟子書百里奚栁}
   - {type: page-break, offset: 4099, content: '', id: KR3j0038_WYG_007-1a, image: WYG0851/WYG0851-0322c.png}
   back: []
-hash: sha256:2369a702a8ac94bfae8e7837ee106079400a388244dde1ce56517cc8f9d0f63a
+hash: sha256:5285efff2828e083570176e5cc7a113bfe6563c741202935b651262578ff4978

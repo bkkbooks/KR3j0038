@@ -13,6 +13,7 @@ markers:
       ', id: KR3j0038_krp_050-bkkkrnewl2}
   - {type: line-break, offset: 8, content: '', id: KR3j0038_SBCK_050-1a02}
   - {type: punctuation, offset: 8, content: (, id: KR3j0038_krp_050-bkkpn1}
+  - {type: 'voice:problem', offset: 8, length: 3296, id: KR3j0038_bkk_050-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 8, got ''('' at offset 3304'}
   - {type: punctuation, offset: 12, content: /, id: KR3j0038_krp_050-bkkpn2}
   - {type: variant, offset: 13, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 18, length: 1, content: 歳, WYG: 嵗}
@@ -1629,4 +1630,4 @@ markers:
 
       ', id: KR3j0038_krp_050-bkkkrnewl159}
   back: []
-hash: sha256:bf54d6b174b1bea9ac21b54737faf7357b459697b53331d09c6d0809e9cf374a
+hash: sha256:3ea3306f4f35d334d349ef7875e9a80179e3bb8886708263fad63a1bd422229f

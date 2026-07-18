@@ -13,6 +13,7 @@ markers:
       ', id: KR3j0038_krp_048-bkkkrnewl2}
   - {type: line-break, offset: 8, content: '', id: KR3j0038_SBCK_048-1a02}
   - {type: punctuation, offset: 8, content: (, id: KR3j0038_krp_048-bkkpn1}
+  - {type: voice, offset: 8, length: 3913, name: note, id: n1}
   - {type: punctuation, offset: 14, content: /, id: KR3j0038_krp_048-bkkpn2}
   - {type: substitution, offset: 17, original: 鷰, replacement: 燕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17765}}
   - {type: punctuation, offset: 31, content: ), id: KR3j0038_krp_048-bkkpn3}
@@ -1415,9 +1416,10 @@ markers:
   - {type: punctuation, offset: 3929, content: (, id: KR3j0038_krp_048-bkkpn387}
   - {type: variant, offset: 3929, length: 1, content: 終, WYG: 欽定四庫全書容齋三筆卷十三十三則宋洪邁撰鐘}
   - {type: page-break, offset: 3929, content: '', id: KR3j0038_WYG_048-1a, image: WYG0851/WYG0851-0632a.png}
+  - {type: voice, offset: 3929, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3930, content: ), id: KR3j0038_krp_048-bkkpn388}
   - {type: 'kr:newline', offset: 3930, content: '
 
       ', id: KR3j0038_krp_048-bkkkrnewl146}
   back: []
-hash: sha256:7945e47ba11832e4a9fe55e368a6571966bfa3a2fb47eb2d9f0824bbf0a68c66
+hash: sha256:f2b970bbd0ee7d79c5231a639d8c1aaf46857d0460b34b7aac2b203f887d7a28

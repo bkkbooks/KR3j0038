@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_015-1a01}
   - {type: variant, offset: 0, length: 16, content: 容齋隨筆卷第十五十九則張文潜哦蘇, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR3j0038_krp_015-bkkpn1}
+  - {type: 'voice:problem', offset: 8, length: 0, id: KR3j0038_bkk_015-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 8}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3j0038_krp_015-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -15,6 +16,7 @@ markers:
       ', id: KR3j0038_krp_015-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_015-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR3j0038_krp_015-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3j0038_bkk_015-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 2, original: 潜, replacement: 潛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17753}}
   - {type: variant, offset: 4, length: 1, content: 蘇, SBCK: 􅂫}
   - {type: 'kr:newline', offset: 7, content: '
@@ -1597,4 +1599,4 @@ markers:
   - {type: variant, offset: 4532, length: 0, content: '', WYG: 欽定四庫全書容齋隨筆卷}
   - {type: page-break, offset: 4532, content: '', id: KR3j0038_WYG_016-1a, image: WYG0851/WYG0851-0393a.png}
   back: []
-hash: sha256:8882bee5a3076a69aed7d3284c0007f252724ff7a1f1bed7571303ee516030ce
+hash: sha256:cc8428669b6eea8142a85d6cf6a01ca2ec861ca218b745fb171c8096fc77d3b5

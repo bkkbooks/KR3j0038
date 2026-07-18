@@ -13,6 +13,7 @@ markers:
       ', id: KR3j0038_krp_049-bkkkrnewl2}
   - {type: line-break, offset: 8, content: '', id: KR3j0038_SBCK_049-1a02}
   - {type: punctuation, offset: 8, content: (, id: KR3j0038_krp_049-bkkpn1}
+  - {type: voice, offset: 8, length: 4311, name: note, id: n1}
   - {type: punctuation, offset: 12, content: /, id: KR3j0038_krp_049-bkkpn2}
   - {type: variant, offset: 14, length: 1, content: 鍾, WYG: 鐘}
   - {type: variant, offset: 24, length: 1, content: 款, WYG: 欵}
@@ -1601,9 +1602,10 @@ markers:
   - {type: punctuation, offset: 4327, content: (, id: KR3j0038_krp_049-bkkpn414}
   - {type: variant, offset: 4327, length: 1, content: 終, WYG: 欽定四庫全書容齋三筆卷十四宋洪邁撰}
   - {type: page-break, offset: 4327, content: '', id: KR3j0038_WYG_049-1a, image: WYG0851/WYG0851-0640a.png}
+  - {type: voice, offset: 4327, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4328, content: ), id: KR3j0038_krp_049-bkkpn415}
   - {type: 'kr:newline', offset: 4328, content: '
 
       ', id: KR3j0038_krp_049-bkkkrnewl156}
   back: []
-hash: sha256:84149d3a6a098d06232c6cbcc1792467a55439cbc5796d0bddb32f12992fb6ad
+hash: sha256:0f0e50d976711cd6b286f0dece0c1857f5fbdea2a1aeb1f264b57825cb29c3b7

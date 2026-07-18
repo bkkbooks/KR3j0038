@@ -147,6 +147,7 @@ markers:
   - {type: line-break, offset: 326, content: '', id: KR3j0038_SBCK_054-2a09}
   - {type: indent, offset: 326, content: 　　, id: KR3j0038_SBCK_054-bkkind27}
   - {type: punctuation, offset: 339, content: (, id: KR3j0038_SBCK_054-bkkpn1}
+  - {type: voice, offset: 339, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 340, content: ), id: KR3j0038_SBCK_054-bkkpn2}
   - {type: 'kr:newline', offset: 341, content: '
 
@@ -286,6 +287,7 @@ markers:
   - {type: line-break, offset: 678, content: '', id: KR3j0038_SBCK_054-3b07}
   - {type: indent, offset: 678, content: 　　, id: KR3j0038_SBCK_054-bkkind52}
   - {type: punctuation, offset: 684, content: (, id: KR3j0038_SBCK_054-bkkpn3}
+  - {type: voice, offset: 684, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 685, content: ), id: KR3j0038_SBCK_054-bkkpn4}
   - {type: 'kr:newline', offset: 687, content: '
 
@@ -312,6 +314,7 @@ markers:
   - {type: line-break, offset: 732, content: '', id: KR3j0038_SBCK_054-4a04}
   - {type: indent, offset: 732, content: 　　, id: KR3j0038_SBCK_054-bkkind56}
   - {type: punctuation, offset: 733, content: (, id: KR3j0038_SBCK_054-bkkpn5}
+  - {type: voice, offset: 733, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 734, content: ), id: KR3j0038_SBCK_054-bkkpn6}
   - {type: 'kr:newline', offset: 739, content: '
 
@@ -363,6 +366,7 @@ markers:
   - {type: line-break, offset: 837, content: '', id: KR3j0038_SBCK_054-4b04}
   - {type: indent, offset: 837, content: 　　, id: KR3j0038_SBCK_054-bkkind65}
   - {type: punctuation, offset: 839, content: (, id: KR3j0038_SBCK_054-bkkpn7}
+  - {type: voice, offset: 839, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 840, content: ), id: KR3j0038_SBCK_054-bkkpn8}
   - {type: 'kr:newline', offset: 842, content: '
 
@@ -417,4 +421,4 @@ markers:
 
       ', id: KR3j0038_SBCK_054-bkkkrnewl83}
   back: []
-hash: sha256:4ae2d33cd143f0d17f8dc2412104c0ecc75ae3b8fe135e8a7078caac2cfd3915
+hash: sha256:48394b17a4241a42bebf7504e76ba9265d9b03e20c1fe38af510b3ee851effa6

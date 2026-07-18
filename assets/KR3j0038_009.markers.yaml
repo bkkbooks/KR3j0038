@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_009-1a01}
   - {type: variant, offset: 0, length: 6, content: 容齋隨筆卷第, WYG: ''}
   - {type: punctuation, offset: 7, content: (, id: KR3j0038_krp_009-bkkpn1}
+  - {type: 'voice:problem', offset: 7, length: 0, id: KR3j0038_bkk_009-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 7}
   - {type: variant, offset: 11, length: 0, content: '', WYG: 宋洪邁撰}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3j0038_krp_009-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR3j0038_krp_009-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3j0038_SBCK_009-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR3j0038_krp_009-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3j0038_bkk_009-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 4, content: '
 
       ', id: KR3j0038_krp_009-bkkkrnewl2}
@@ -1644,4 +1646,4 @@ markers:
 
       ', id: KR3j0038_krp_009-bkkkrnewl278}
   back: []
-hash: sha256:d971e283c1fb21a5ad069b000429c0b8b048ef817aebb66a4785224901f3af7c
+hash: sha256:1c277d9eb6fff992bef06d3a3e67e6fe904f96ef7038cf247993f7da1f3095dc
